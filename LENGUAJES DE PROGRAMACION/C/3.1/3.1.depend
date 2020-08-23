@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1588903073 source:c:\users\ander\documents\programando\lenguajes de programacion\3.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

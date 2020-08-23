@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1591337980 source:c:\users\ander\documents\programando\lenguajes de programacion\c\ejerciciospunterosyestructuras\ejercicio2estructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

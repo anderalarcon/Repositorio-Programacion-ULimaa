@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589054054 source:c:\users\ander\documents\programando\sistemas operativos\lab_4_propuesto2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

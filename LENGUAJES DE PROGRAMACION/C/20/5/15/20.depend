@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589556383 source:c:\users\ander\documents\programando\lenguajes de programacion\20\5\15\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

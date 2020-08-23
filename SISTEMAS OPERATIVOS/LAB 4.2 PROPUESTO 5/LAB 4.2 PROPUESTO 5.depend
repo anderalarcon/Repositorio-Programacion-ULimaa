@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590010343 source:c:\users\ander\documents\programando\sistemas operativos\lab 4.2 propuesto 5\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589836838 source:c:\users\ander\documents\programando\sistemas operativos\lab 4 c2 ejercicio3\main.c
+	<stdio.h>
+	<stdlib.h>
+

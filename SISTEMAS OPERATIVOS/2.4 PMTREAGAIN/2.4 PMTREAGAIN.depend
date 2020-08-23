@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1590017986 source:c:\users\ander\documents\programando\sistemas operativos\2.4 pmtreagain\main.c
+	<stdio.h>
+	<stdlib.h>
+

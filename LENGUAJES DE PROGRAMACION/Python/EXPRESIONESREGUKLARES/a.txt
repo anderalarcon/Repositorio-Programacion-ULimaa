@@ -1,0 +1,17 @@
+%option nyywwrap
+%{
+	int nlineas=0;
+	int ncarac=0;
+%}
+
+%%
+\n	nlineas++;
+.	ncarac++;
+%%
+
+int main(){
+		yylex();
+		print("Numero de lineas es %d , nlineas);
+		print("Numero de caracteres es %d , ncarac);
+		return 0;
+}

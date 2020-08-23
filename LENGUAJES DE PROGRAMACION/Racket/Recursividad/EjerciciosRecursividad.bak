@@ -1,0 +1,22 @@
+#lang racket
+(define lista(list -3 -2 -1 0 1 2 3 4 ))
+(define lista2(list 1 1 1 1 1 1 1 1))
+(define (sumalista lista);1
+  (if(empty? lista)0
+     (+ (car lista) (sumalista (cdr lista) ))))
+
+
+(define (mostrar lista);2
+  (if(empty? lista)(display "")
+     (begin
+       (display(car lista))
+       (mostrar (cdr lista))
+
+       
+       )))
+
+(define (listacuadrado lista lista2 )
+  (if(empty? lista)0
+     (map * (map * lista2 lista) lista)))
+     
+(listacuadrado lista lista2 )

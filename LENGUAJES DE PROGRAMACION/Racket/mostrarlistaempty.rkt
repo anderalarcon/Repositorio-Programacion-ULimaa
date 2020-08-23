@@ -1,0 +1,12 @@
+#lang racket
+(define lista ( list 1 2 3  " perro" ))
+
+(define (imprimir listaa)
+  (if(empty? listaa)
+     '()
+     (begin
+       (display (car listaa))
+       (imprimir (cdr listaa))
+      )))
+
+(imprimir lista)

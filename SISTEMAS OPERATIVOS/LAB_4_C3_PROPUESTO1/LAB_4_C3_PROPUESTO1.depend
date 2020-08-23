@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589785265 source:c:\users\ander\documents\programando\sistemas operativos\lab_4_c3_propuesto1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
